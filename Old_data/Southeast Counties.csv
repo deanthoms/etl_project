@@ -1,0 +1,1052 @@
+Area,County,CancerType,Sex,AgeAdjustedRate,CaseCount,Population
+Georgia,Dooly County,Female Breast,Female,49.1,23,32667
+Georgia,Twiggs County,Female Breast,Female,67.4,19,21487
+Georgia,Pulaski County,Female Breast,Female,70.6,32,32797
+Georgia,Candler County,Female Breast,Female,69.9,22,27852
+Georgia,Marion County,Female Breast,Female,74.5,22,21759
+Georgia,Telfair County,Female Breast,Female,67.5,32,33755
+Georgia,Wilcox County,Female Breast,Female,85.4,19,18164
+Georgia,Johnson County,Female Breast,Female,81,26,21602
+Georgia,Banks County,Female Breast,Female,84.5,47,45060
+Georgia,Emanuel County,Female Breast,Female,94.4,69,57204
+Georgia,Catoosa County,Female Breast,Female,87.4,185,168580
+Georgia,Murray County,Female Breast,Female,94.2,106,99594
+Georgia,Brooks County,Female Breast,Female,84.9,47,40007
+Georgia,Randolph County,Female Breast,Female,92.2,27,19555
+Georgia,Jefferson County,Female Breast,Female,97.6,54,41534
+Georgia,McIntosh County,Female Breast,Female,95.7,54,35724
+Georgia,Whitfield County,Female Breast,Female,100.1,280,260458
+Georgia,Gordon County,Female Breast,Female,103.9,170,141784
+Georgia,Long County,Female Breast,Female,100.6,36,43008
+Georgia,Treutlen County,Female Breast,Female,100.1,21,16765
+Georgia,Dawson County,Female Breast,Female,95,73,57672
+Georgia,Jeff Davis County,Female Breast,Female,104.6,49,38064
+Georgia,Dade County,Female Breast,Female,105.6,56,41642
+Georgia,Appling County,Female Breast,Female,102.1,56,46099
+Georgia,Ben Hill County,Female Breast,Female,103.2,58,45461
+Georgia,Brantley County,Female Breast,Female,95.7,53,46319
+Georgia,Walker County,Female Breast,Female,96,212,173856
+Georgia,Dodge County,Female Breast,Female,102.5,66,50848
+Georgia,Pike County,Female Breast,Female,102.6,56,45268
+Georgia,Early County,Female Breast,Female,103.6,36,27822
+Georgia,Lamar County,Female Breast,Female,115.3,63,47431
+Georgia,Heard County,Female Breast,Female,115.7,44,29118
+Georgia,Haralson County,Female Breast,Female,110.6,101,73642
+Georgia,Wilkinson County,Female Breast,Female,116.6,37,24156
+Georgia,Grady County,Female Breast,Female,111.1,90,64981
+Georgia,Worth County,Female Breast,Female,111.4,78,54378
+Georgia,Lumpkin County,Female Breast,Female,109.9,103,78465
+Georgia,McDuffie County,Female Breast,Female,116.4,83,57024
+Georgia,Schley County,Female Breast,Female,115.5,18,13399
+Georgia,Jasper County,Female Breast,Female,115.8,49,34815
+Georgia,Chattahoochee County,Female Breast,Female,Data Suppressed,Data Suppressed,19254
+Georgia,Jenkins County,Female Breast,Female,127.8,36,20964
+Georgia,Lanier County,Female Breast,Female,134.9,38,25646
+Georgia,Laurens County,Female Breast,Female,123.2,191,124752
+Georgia,Henry County,Female Breast,Female,134.5,784,558203
+Georgia,Wheeler County,Female Breast,Female,Data Suppressed,Data Suppressed,13903
+Georgia,White County,Female Breast,Female,122.8,129,71931
+Georgia,Polk County,Female Breast,Female,121.1,154,104821
+Georgia,Washington County,Female Breast,Female,155.6,104,50798
+Georgia,Wayne County,Female Breast,Female,124.8,107,72609
+Georgia,Webster County,Female Breast,Female,Data Suppressed,Data Suppressed,6629
+Georgia,Hancock County,Female Breast,Female,118.1,34,19817
+Georgia,Harris County,Female Breast,Female,126.1,136,82413
+Georgia,Hart County,Female Breast,Female,118,109,64515
+Georgia,Glynn County,Female Breast,Female,130.2,365,217490
+Georgia,Wilkes County,Female Breast,Female,153.5,62,25951
+Georgia,Mitchell County,Female Breast,Female,135.7,94,54377
+Georgia,Meriwether County,Female Breast,Female,128.6,96,55210
+Georgia,Miller County,Female Breast,Female,124.5,27,15348
+Georgia,Walton County,Female Breast,Female,118.9,308,224298
+Georgia,Greene County,Female Breast,Female,149.5,106,42468
+Georgia,Ware County,Female Breast,Female,126.4,145,89821
+Georgia,Gwinnett County,Female Breast,Female,127.8,2762,2228777
+Georgia,Bulloch County,Female Breast,Female,119.4,199,185580
+Georgia,Burke County,Female Breast,Female,130.8,92,59182
+Georgia,Jones County,Female Breast,Female,129.8,115,73624
+Georgia,Lowndes County,Female Breast,Female,122.1,336,289750
+Georgia,Lincoln County,Female Breast,Female,129.3,39,19803
+Georgia,Screven County,Female Breast,Female,139.2,66,35898
+Georgia,Troup County,Female Breast,Female,124.7,253,179182
+Georgia,Houston County,Female Breast,Female,120.1,485,381903
+Georgia,Irwin County,Female Breast,Female,122.6,35,22769
+Georgia,Liberty County,Female Breast,Female,119.9,155,155059
+Georgia,Coweta County,Female Breast,Female,118,454,347020
+Georgia,Crawford County,Female Breast,Female,123.5,51,30928
+Georgia,Jackson County,Female Breast,Female,123.6,228,157719
+Georgia,Cook County,Female Breast,Female,136.5,72,44474
+Georgia,Crisp County,Female Breast,Female,115.3,90,60871
+Georgia,Decatur County,Female Breast,Female,113.3,96,69807
+Georgia,Fannin County,Female Breast,Female,113.4,111,61957
+Georgia,Evans County,Female Breast,Female,138,42,27579
+Georgia,Atkinson County,Female Breast,Female,126.4,28,20606
+Georgia,Monroe County,Female Breast,Female,106.8,102,66632
+Georgia,Charlton County,Female Breast,Female,107.5,36,26352
+Georgia,Baker County,Female Breast,Female,127.4,16,8487
+Georgia,Bacon County,Female Breast,Female,128.9,43,28572
+Georgia,Fayette County,Female Breast,Female,135.5,490,281548
+Georgia,Carroll County,Female Breast,Female,115.3,352,291100
+Georgia,Montgomery County,Female Breast,Female,133.3,35,21633
+Georgia,Morgan County,Female Breast,Female,133.8,83,46243
+Georgia,Camden County,Female Breast,Female,129.4,160,125922
+Georgia,Newton County,Female Breast,Female,133.1,386,271789
+Georgia,Muscogee County,Female Breast,Female,135.4,753,508949
+Georgia,Thomas County,Female Breast,Female,123.2,185,118053
+Georgia,Spalding County,Female Breast,Female,129.6,267,165161
+Georgia,Stephens County,Female Breast,Female,119,106,66715
+Georgia,Seminole County,Female Breast,Female,116.4,37,22649
+Georgia,Sumter County,Female Breast,Female,122.1,117,81625
+Georgia,Stewart County,Female Breast,Female,113.9,19,11139
+Georgia,Toombs County,Female Breast,Female,109.1,92,71653
+Georgia,Towns County,Female Breast,Female,125.5,66,28786
+Georgia,Tift County,Female Breast,Female,130.6,156,104734
+Georgia,Turner County,Female Breast,Female,118.8,33,20679
+Georgia,Chatham County,Female Breast,Female,133.1,1072,731283
+Georgia,Bartow County,Female Breast,Female,114.9,332,257759
+Georgia,Clay County,Female Breast,Female,Data Suppressed,Data Suppressed,8184
+Georgia,Pierce County,Female Breast,Female,112.8,72,48248
+Georgia,DeKalb County,Female Breast,Female,134.1,2677,1909233
+Georgia,Richmond County,Female Breast,Female,134,768,518446
+Georgia,Madison County,Female Breast,Female,126.9,114,71773
+Georgia,Lee County,Female Breast,Female,111.5,87,72398
+Georgia,Bleckley County,Female Breast,Female,107.2,41,33345
+Georgia,Elbert County,Female Breast,Female,133.8,91,50512
+Georgia,Echols County,Female Breast,Female,Data Suppressed,Data Suppressed,9985
+Georgia,Butts County,Female Breast,Female,108.7,77,54873
+Georgia,Calhoun County,Female Breast,Female,116,20,13065
+Georgia,Peach County,Female Breast,Female,111.8,90,70056
+Georgia,Macon County,Female Breast,Female,117,46,31622
+Georgia,Habersham County,Female Breast,Female,112.3,158,114860
+Georgia,Berrien County,Female Breast,Female,114.2,70,48128
+Georgia,Effingham County,Female Breast,Female,129.7,188,140273
+Georgia,Oglethorpe County,Female Breast,Female,125.7,61,36981
+Georgia,Cherokee County,Female Breast,Female,125,814,585162
+Georgia,Tattnall County,Female Breast,Female,141.7,92,53738
+Georgia,Pickens County,Female Breast,Female,142.9,149,75948
+Georgia,Baldwin County,Female Breast,Female,118.3,148,113412
+Georgia,Barrow County,Female Breast,Female,119.2,238,186393
+Georgia,Union County,Female Breast,Female,124.3,135,56460
+Georgia,Upson County,Female Breast,Female,129.1,116,68973
+Georgia,Warren County,Female Breast,Female,209.2,41,14469
+Georgia,Rockdale County,Female Breast,Female,131.6,353,230678
+Georgia,Clayton County,Female Breast,Female,129.1,855,712235
+Georgia,Bibb County,Female Breast,Female,131.3,616,408805
+Georgia,Oconee County,Female Breast,Female,142.5,150,89479
+Georgia,Hall County,Female Breast,Female,119.5,640,476269
+Georgia,Bryan County,Female Breast,Female,127.9,107,85439
+Georgia,Colquitt County,Female Breast,Female,118.3,157,115782
+Georgia,Columbia County,Female Breast,Female,131.7,516,358278
+Georgia,Talbot County,Female Breast,Female,114,29,17090
+Georgia,Taliaferro County,Female Breast,Female,Data Suppressed,Data Suppressed,4241
+Georgia,Dougherty County,Female Breast,Female,129.1,352,248149
+Georgia,Paulding County,Female Breast,Female,131.9,501,382469
+Georgia,Clarke County,Female Breast,Female,125.6,334,319471
+Georgia,Forsyth County,Female Breast,Female,125.6,690,511317
+Georgia,Floyd County,Female Breast,Female,120.1,366,247972
+Georgia,Franklin County,Female Breast,Female,137.6,99,56488
+Georgia,Chattooga County,Female Breast,Female,118.1,92,60975
+Georgia,Fulton County,Female Breast,Female,132.8,3490,2566043
+Georgia,Glascock County,Female Breast,Female,Data Suppressed,Data Suppressed,7800
+Georgia,Gilmer County,Female Breast,Female,126.8,133,72645
+Georgia,Taylor County,Female Breast,Female,119.2,34,21691
+Georgia,Terrell County,Female Breast,Female,131.7,39,23607
+Georgia,Douglas County,Female Breast,Female,145.6,547,360249
+Georgia,Rabun County,Female Breast,Female,117,79,41437
+Georgia,Clinch County,Female Breast,Female,124.8,24,17370
+Georgia,Cobb County,Female Breast,Female,138.4,2744,1882930
+Georgia,Coffee County,Female Breast,Female,113.4,135,105205
+Georgia,Putnam County,Female Breast,Female,118.6,103,54725
+Georgia,Quitman County,Female Breast,Female,182.5,17,6008
+Florida,Holmes County,Female Breast,Female,61.1,39,45627
+Florida,Madison County,Female Breast,Female,67.9,44,44033
+Florida,Franklin County,Female Breast,Female,86.1,32,24803
+Florida,Lafayette County,Female Breast,Female,78.2,19,17638
+Florida,Jackson County,Female Breast,Female,78.4,116,109140
+Florida,Washington County,Female Breast,Female,79.6,58,55650
+Florida,Collier County,Female Breast,Female,93,1332,885026
+Florida,Gadsden County,Female Breast,Female,99.4,152,121275
+Florida,DeSoto County,Female Breast,Female,90.4,94,76595
+Florida,Hamilton County,Female Breast,Female,97.6,36,30199
+Florida,Hendry County,Female Breast,Female,86.2,86,91586
+Florida,Jefferson County,Female Breast,Female,104.3,46,33689
+Florida,Calhoun County,Female Breast,Female,87.6,40,32948
+Florida,Monroe County,Female Breast,Female,98.2,264,180980
+Florida,Glades County,Female Breast,Female,107.9,47,28137
+Florida,Gulf County,Female Breast,Female,109,49,32036
+Florida,Highlands County,Female Breast,Female,112.5,488,254833
+Florida,Hardee County,Female Breast,Female,104.3,79,63820
+Florida,Citrus County,Female Breast,Female,110.8,750,361672
+Florida,Wakulla County,Female Breast,Female,106.6,92,70327
+Florida,Miami-Dade County,Female Breast,Female,106.2,8965,6878862
+Florida,Manatee County,Female Breast,Female,112.2,1563,912580
+Florida,Baker County,Female Breast,Female,106.8,82,65169
+Florida,Walton County,Female Breast,Female,105.7,219,150635
+Florida,Lee County,Female Breast,Female,111.1,2957,1738241
+Florida,Osceola County,Female Breast,Female,113,968,794126
+Florida,Liberty County,Female Breast,Female,109,21,16002
+Florida,Taylor County,Female Breast,Female,106.5,74,49303
+Florida,Orange County,Female Breast,Female,110.4,3622,3207108
+Florida,Sumter County,Female Breast,Female,105.7,769,276329
+Florida,Santa Rosa County,Female Breast,Female,117.3,572,399542
+Florida,St. Lucie County,Female Breast,Female,114.9,1216,748187
+Florida,Clay County,Female Breast,Female,118,718,507089
+Florida,Columbia County,Female Breast,Female,124.9,269,163938
+Florida,Gilchrist County,Female Breast,Female,129.6,71,41052
+Florida,Dixie County,Female Breast,Female,130.2,69,36987
+Florida,Escambia County,Female Breast,Female,126,1204,774133
+Florida,Hillsborough County,Female Breast,Female,122.4,4645,3396717
+Florida,Lake County,Female Breast,Female,125.1,1591,820082
+Florida,Hernando County,Female Breast,Female,118.5,874,459364
+Florida,St. Johns County,Female Breast,Female,130.5,969,559263
+Florida,Duval County,Female Breast,Female,133.4,3470,2319694
+Florida,Polk County,Female Breast,Female,127.2,2750,1626575
+Florida,Putnam County,Female Breast,Female,115,306,182917
+Florida,Broward County,Female Breast,Female,121.8,7170,4793137
+Florida,Charlotte County,Female Breast,Female,114,909,434436
+Florida,Flagler County,Female Breast,Female,114.9,543,266150
+Florida,Pinellas County,Female Breast,Female,127,4708,2443756
+Florida,Volusia County,Female Breast,Female,113.3,2243,1308644
+Florida,Union County,Female Breast,Female,179.7,53,26751
+Florida,Nassau County,Female Breast,Female,130.2,363,194913
+Florida,Marion County,Female Breast,Female,123.3,1788,882695
+Florida,Martin County,Female Breast,Female,132.1,847,387832
+Florida,Seminole County,Female Breast,Female,118.1,1636,1144378
+Florida,Bay County,Female Breast,Female,122.2,692,447116
+Florida,Sarasota County,Female Breast,Female,127.8,2336,1040835
+Florida,Alachua County,Female Breast,Female,134.9,895,662805
+Florida,Bradford County,Female Breast,Female,117.2,88,60974
+Florida,Brevard County,Female Breast,Female,124.1,2665,1431068
+Florida,Leon County,Female Breast,Female,114.6,819,745663
+Florida,Pasco County,Female Breast,Female,118,2108,1250343
+Florida,Levy County,Female Breast,Female,116.1,182,100779
+Florida,Palm Beach County,Female Breast,Female,121.3,6364,3620895
+Florida,Suwannee County,Female Breast,Female,116,169,104031
+Florida,Indian River County,Female Breast,Female,113,734,377506
+Florida,Okaloosa County,Female Breast,Female,116.5,681,480227
+Florida,Okeechobee County,Female Breast,Female,114.8,146,92456
+South Carolina,Allendale County,Female Breast,Female,83.7,30,22371
+South Carolina,Dillon County,Female Breast,Female,102.1,104,82369
+South Carolina,Chesterfield County,Female Breast,Female,113.6,173,118296
+South Carolina,Marion County,Female Breast,Female,114.2,126,86482
+South Carolina,Edgefield County,Female Breast,Female,109.4,94,61321
+South Carolina,Greenwood County,Female Breast,Female,108.6,259,185993
+South Carolina,Colleton County,Female Breast,Female,122.2,164,97827
+South Carolina,Darlington County,Female Breast,Female,120.8,277,178722
+South Carolina,Clarendon County,Female Breast,Female,120.5,151,87082
+South Carolina,Abbeville County,Female Breast,Female,114.3,100,64043
+South Carolina,Hampton County,Female Breast,Female,120.9,77,49299
+South Carolina,Laurens County,Female Breast,Female,121.3,264,171280
+South Carolina,Horry County,Female Breast,Female,120.1,1307,773145
+South Carolina,Orangeburg County,Female Breast,Female,119.5,375,238460
+South Carolina,Florence County,Female Breast,Female,127.6,581,368344
+South Carolina,Newberry County,Female Breast,Female,122.6,164,96516
+South Carolina,Oconee County,Female Breast,Female,125.2,353,191210
+South Carolina,Cherokee County,Female Breast,Female,125.3,218,144544
+South Carolina,Bamberg County,Female Breast,Female,128.9,66,39300
+South Carolina,Barnwell County,Female Breast,Female,123.4,90,57560
+South Carolina,Berkeley County,Female Breast,Female,124,676,499259
+South Carolina,Marlboro County,Female Breast,Female,122.5,109,65358
+South Carolina,Anderson County,Female Breast,Female,127.1,814,498043
+South Carolina,Aiken County,Female Breast,Female,123.6,692,424924
+South Carolina,Jasper County,Female Breast,Female,126.2,108,65664
+South Carolina,Lee County,Female Breast,Female,130.5,75,43805
+South Carolina,Lexington County,Female Breast,Female,129.5,1099,711495
+South Carolina,Williamsburg County,Female Breast,Female,123.5,142,84124
+South Carolina,York County,Female Breast,Female,127.8,933,634617
+South Carolina,Saluda County,Female Breast,Female,126.4,80,49759
+South Carolina,McCormick County,Female Breast,Female,155.9,63,22213
+South Carolina,Beaufort County,Female Breast,Female,132.7,874,444732
+South Carolina,Fairfield County,Female Breast,Female,148.2,122,60151
+South Carolina,Chester County,Female Breast,Female,143.2,159,84012
+South Carolina,Calhoun County,Female Breast,Female,135.1,75,38246
+South Carolina,Charleston County,Female Breast,Female,134.1,1549,981277
+South Carolina,Dorchester County,Female Breast,Female,131.3,548,381858
+South Carolina,Union County,Female Breast,Female,137.7,138,73022
+South Carolina,Sumter County,Female Breast,Female,133.3,435,278208
+South Carolina,Kershaw County,Female Breast,Female,133.3,278,162765
+South Carolina,Greenville County,Female Breast,Female,136.2,1991,1240621
+South Carolina,Lancaster County,Female Breast,Female,131.2,373,214602
+South Carolina,Pickens County,Female Breast,Female,131.4,468,302426
+South Carolina,Georgetown County,Female Breast,Female,133.7,325,159460
+South Carolina,Richland County,Female Breast,Female,142.8,1514,1032310
+South Carolina,Spartanburg County,Female Breast,Female,134.1,1225,757346
+North Carolina,Greene County,Female Breast,Female,71.7,46,48314
+North Carolina,Hyde County,Female Breast,Female,90.5,19,12407
+North Carolina,Alleghany County,Female Breast,Female,96.9,47,27487
+North Carolina,Gates County,Female Breast,Female,91.3,38,29770
+North Carolina,Wilkes County,Female Breast,Female,94.1,230,173857
+North Carolina,Polk County,Female Breast,Female,100,92,53072
+North Carolina,Bladen County,Female Breast,Female,100.9,122,89556
+North Carolina,Robeson County,Female Breast,Female,102.2,405,348781
+North Carolina,Stokes County,Female Breast,Female,106.1,179,118262
+North Carolina,Columbus County,Female Breast,Female,106.1,212,144343
+North Carolina,Warren County,Female Breast,Female,106.9,88,50647
+North Carolina,Montgomery County,Female Breast,Female,103,101,70647
+North Carolina,Jackson County,Female Breast,Female,103.8,140,104926
+North Carolina,Hoke County,Female Breast,Female,108.4,131,131171
+North Carolina,Burke County,Female Breast,Female,113.8,366,224389
+North Carolina,Beaufort County,Female Breast,Female,116.8,209,123356
+North Carolina,Caswell County,Female Breast,Female,116.6,97,56532
+North Carolina,Yadkin County,Female Breast,Female,112.6,149,95832
+North Carolina,Graham County,Female Breast,Female,118.7,39,21872
+North Carolina,Rutherford County,Female Breast,Female,111.7,280,172062
+North Carolina,Transylvania County,Female Breast,Female,117.2,174,85466
+North Carolina,Dare County,Female Breast,Female,116.8,147,88495
+North Carolina,McDowell County,Female Breast,Female,117.2,189,112556
+North Carolina,Perquimans County,Female Breast,Female,111.6,72,35153
+North Carolina,Harnett County,Female Breast,Female,116.4,378,320136
+North Carolina,Johnston County,Female Breast,Female,116.5,604,463297
+North Carolina,Jones County,Female Breast,Female,116.1,47,25329
+North Carolina,Clay County,Female Breast,Female,117.3,61,27153
+North Carolina,Moore County,Female Breast,Female,118.3,435,241684
+North Carolina,Hertford County,Female Breast,Female,110.6,97,61670
+North Carolina,Carteret County,Female Breast,Female,128.2,332,173902
+North Carolina,Brunswick County,Female Breast,Female,120.5,628,306399
+North Carolina,Camden County,Female Breast,Female,129.3,43,25778
+North Carolina,Ashe County,Female Breast,Female,119.9,120,67918
+North Carolina,Alexander County,Female Breast,Female,128.9,162,91182
+North Carolina,Rowan County,Female Breast,Female,119.3,531,349991
+North Carolina,Randolph County,Female Breast,Female,123.6,583,361764
+North Carolina,Richmond County,Female Breast,Female,120.3,173,116880
+North Carolina,Gaston County,Female Breast,Female,128.6,877,547710
+North Carolina,Stanly County,Female Breast,Female,124.4,250,152577
+North Carolina,Buncombe County,Female Breast,Female,147.2,1280,648578
+North Carolina,Avery County,Female Breast,Female,146.4,86,39852
+North Carolina,Bertie County,Female Breast,Female,137.4,103,50213
+North Carolina,Chowan County,Female Breast,Female,147.9,73,38148
+North Carolina,Caldwell County,Female Breast,Female,135.1,386,206936
+North Carolina,Catawba County,Female Breast,Female,136.8,694,397313
+North Carolina,Chatham County,Female Breast,Female,132.8,351,174137
+North Carolina,Cabarrus County,Female Breast,Female,139.9,769,493240
+North Carolina,Cherokee County,Female Breast,Female,138.9,154,70150
+North Carolina,Anson County,Female Breast,Female,135,106,61512
+North Carolina,Alamance County,Female Breast,Female,147,755,408974
+North Carolina,Halifax County,Female Breast,Female,140.2,266,137722
+North Carolina,Rockingham County,Female Breast,Female,133.8,437,238014
+North Carolina,Forsyth County,Female Breast,Female,141.4,1607,958120
+North Carolina,Edgecombe County,Female Breast,Female,127,241,146572
+North Carolina,Wilson County,Female Breast,Female,125.4,341,213901
+North Carolina,Davidson County,Female Breast,Female,127,695,418019
+North Carolina,Davie County,Female Breast,Female,154.4,228,106555
+North Carolina,Granville County,Female Breast,Female,124.2,223,142215
+North Carolina,Orange County,Female Breast,Female,151.2,581,367476
+North Carolina,Pamlico County,Female Breast,Female,143.4,74,31362
+North Carolina,Pasquotank County,Female Breast,Female,154,193,101238
+North Carolina,Swain County,Female Breast,Female,139.6,67,36442
+North Carolina,Cleveland County,Female Breast,Female,134.8,458,251852
+North Carolina,Craven County,Female Breast,Female,126.7,412,256295
+North Carolina,Guilford County,Female Breast,Female,145.8,2252,1345393
+North Carolina,Tyrrell County,Female Breast,Female,148.6,20,9435
+North Carolina,Union County,Female Breast,Female,130.5,779,551764
+North Carolina,Yancey County,Female Breast,Female,121,82,44675
+North Carolina,Vance County,Female Breast,Female,138.2,205,118688
+North Carolina,Wake County,Female Breast,Female,143.7,3762,2570284
+North Carolina,Currituck County,Female Breast,Female,130.4,105,62736
+North Carolina,Cumberland County,Female Breast,Female,127.2,1057,834686
+North Carolina,Lincoln County,Female Breast,Female,129.1,342,200819
+North Carolina,Mecklenburg County,Female Breast,Female,139.1,3665,2629129
+North Carolina,Mitchell County,Female Breast,Female,129.3,73,38679
+North Carolina,Macon County,Female Breast,Female,122.3,180,87530
+North Carolina,Person County,Female Breast,Female,128.4,172,100865
+North Carolina,Pender County,Female Breast,Female,122.8,224,140853
+North Carolina,Martin County,Female Breast,Female,146.5,136,62272
+North Carolina,Madison County,Female Breast,Female,134.9,100,53531
+North Carolina,Durham County,Female Breast,Female,148.7,1185,768954
+North Carolina,Duplin County,Female Breast,Female,122,231,151834
+North Carolina,Wayne County,Female Breast,Female,129.4,501,317497
+North Carolina,Watauga County,Female Breast,Female,133.9,184,131902
+North Carolina,Washington County,Female Breast,Female,132.8,64,33083
+North Carolina,Onslow County,Female Breast,Female,127.3,448,424711
+North Carolina,Northampton County,Female Breast,Female,118.8,98,53445
+North Carolina,Iredell County,Female Breast,Female,135.9,698,424392
+North Carolina,Haywood County,Female Breast,Female,131.2,306,153915
+North Carolina,Nash County,Female Breast,Female,133.3,417,244861
+North Carolina,New Hanover County,Female Breast,Female,134.6,907,562190
+North Carolina,Pitt County,Female Breast,Female,127.9,587,463893
+North Carolina,Surry County,Female Breast,Female,132.3,364,186041
+North Carolina,Scotland County,Female Breast,Female,124,141,89991
+North Carolina,Sampson County,Female Breast,Female,129.4,259,162278
+North Carolina,Franklin County,Female Breast,Female,134.8,283,158178
+North Carolina,Lenoir County,Female Breast,Female,133.5,280,152335
+North Carolina,Lee County,Female Breast,Female,135.6,251,152356
+North Carolina,Henderson County,Female Breast,Female,135.9,613,286792
+Virginia,Russell County,Female Breast,Female,58.6,59,71447
+Virginia,Buchanan County,Female Breast,Female,67.6,54,56563
+Virginia,Lee County,Female Breast,Female,68.8,57,59053
+Virginia,Scott County,Female Breast,Female,72.6,63,56187
+Virginia,Tazewell County,Female Breast,Female,68.2,104,108974
+Virginia,Bristol City,Female Breast,Female,71.5,48,45529
+Virginia,Covington City,Female Breast,Female,89,21,14759
+Virginia,Bland County,Female Breast,Female,83.7,19,14777
+Virginia,Manassas Park City,Female Breast,Female,89.9,29,38587
+Virginia,Madison County,Female Breast,Female,96.7,51,33660
+Virginia,Carroll County,Female Breast,Female,86.5,97,75338
+Virginia,Smyth County,Female Breast,Female,94.1,107,80344
+Virginia,Washington County,Female Breast,Female,83.5,177,138361
+Virginia,Wise County,Female Breast,Female,85.8,111,96400
+Virginia,Henry County,Female Breast,Female,113.3,225,135454
+Virginia,Amelia County,Female Breast,Female,105.7,47,32543
+Virginia,Amherst County,Female Breast,Female,106.1,126,83168
+Virginia,Harrisonburg City,Female Breast,Female,109.7,107,137332
+Virginia,Floyd County,Female Breast,Female,99.6,53,38526
+Virginia,Giles County,Female Breast,Female,114,72,43011
+Virginia,Craig County,Female Breast,Female,109.7,21,12960
+Virginia,Mathews County,Female Breast,Female,113.3,50,22875
+Virginia,Cumberland County,Female Breast,Female,107.9,37,25421
+Virginia,Mecklenburg County,Female Breast,Female,105.5,131,80365
+Virginia,Grayson County,Female Breast,Female,112.5,71,38702
+Virginia,King George County,Female Breast,Female,113.8,77,62529
+Virginia,Pulaski County,Female Breast,Female,109.7,143,86390
+Virginia,Westmoreland County,Female Breast,Female,107.5,82,44995
+Virginia,Patrick County,Female Breast,Female,101.4,76,45878
+Virginia,Rockbridge County,Female Breast,Female,107.9,92,56600
+Virginia,Radford City,Female Breast,Female,118.1,39,45171
+Virginia,Roanoke City,Female Breast,Female,126.7,411,258255
+Virginia,Manassas City,Female Breast,Female,120.6,115,102600
+Virginia,Alleghany Cnty and Clifton Forge Cty,Female Breast,Female,120.3,74,39904
+Virginia,Fairfax County,Female Breast,Female,124.3,3969,2870029
+Virginia,Prince William County,Female Breast,Female,115.6,1212,1114181
+Virginia,Bedford City and County,Female Breast,Female,122.1,349,194918
+Virginia,Alexandria City,Female Breast,Female,115.9,474,394043
+Virginia,Spotsylvania County,Female Breast,Female,122.1,449,327462
+Virginia,Accomack County,Female Breast,Female,117,146,84479
+Virginia,Portsmouth City,Female Breast,Female,140.1,394,248920
+Virginia,Richmond City,Female Breast,Female,127.3,749,571334
+Virginia,Bath County,Female Breast,Female,142.2,28,11238
+Virginia,Augusta County,Female Breast,Female,129.2,330,183005
+Virginia,Lynchburg City,Female Breast,Female,127.9,263,208309
+Virginia,Winchester City,Female Breast,Female,140,110,69422
+Virginia,Norton City,Female Breast,Female,Data Suppressed,Data Suppressed,10691
+Virginia,Petersburg City,Female Breast,Female,145.1,164,86283
+Virginia,Staunton City,Female Breast,Female,143.6,131,66168
+Virginia,Waynesboro City,Female Breast,Female,141.1,102,55992
+Virginia,James City County,Female Breast,Female,140.6,385,185804
+Virginia,York County,Female Breast,Female,137.4,282,169544
+Virginia,Norfolk City,Female Breast,Female,134.8,799,588667
+Virginia,Poquoson City,Female Breast,Female,155,66,30423
+Virginia,Newport News City,Female Breast,Female,139.6,680,466493
+Virginia,Salem City,Female Breast,Female,142.8,127,66469
+Virginia,Arlington County,Female Breast,Female,131.9,700,568779
+Virginia,Williamsburg City,Female Breast,Female,185.2,68,39373
+Virginia,Appomattox County,Female Breast,Female,136.7,75,39536
+Virginia,Albemarle County,Female Breast,Female,140.3,468,270770
+Virginia,Botetourt County,Female Breast,Female,134.8,159,83676
+Virginia,Suffolk City,Female Breast,Female,152.4,394,225059
+Virginia,Virginia Beach City,Female Breast,Female,146.5,1858,1141663
+Virginia,Martinsville City,Female Breast,Female,135.1,69,36214
+Virginia,Fairfax City,Female Breast,Female,138.1,96,58894
+Virginia,Rockingham County,Female Breast,Female,131,336,198733
+Virginia,Falls Church City,Female Breast,Female,124.1,47,34432
+Virginia,Charlotte County,Female Breast,Female,119.2,57,31001
+Virginia,Dinwiddie County,Female Breast,Female,133.6,118,71714
+Virginia,Fluvanna County,Female Breast,Female,150.3,139,70659
+Virginia,Goochland County,Female Breast,Female,129.1,102,55471
+Virginia,Franklin County,Female Breast,Female,122.1,255,142692
+Virginia,Greensville County,Female Breast,Female,124.7,40,22159
+Virginia,Culpeper County,Female Breast,Female,120.9,171,122376
+Virginia,Henrico County,Female Breast,Female,139.6,1395,847852
+Virginia,Highland County,Female Breast,Female,150.1,16,5551
+Virginia,Isle of Wight County,Female Breast,Female,148.5,185,91458
+Virginia,Clarke County,Female Breast,Female,143.6,73,35896
+Virginia,Halifax County with South Boston City,Female Breast,Female,134.1,169,92030
+Virginia,Hanover County,Female Breast,Female,153.8,512,260055
+Virginia,King and Queen County,Female Breast,Female,136.3,34,17484
+Virginia,Louisa County,Female Breast,Female,130.7,152,87067
+Virginia,Greene County,Female Breast,Female,150,88,48584
+Virginia,Dickenson County,Female Breast,Female,117.5,64,37959
+Virginia,Fauquier County,Female Breast,Female,117,247,171258
+Virginia,Lancaster County,Female Breast,Female,120.8,68,28913
+Virginia,Loudoun County,Female Breast,Female,130.5,1140,915129
+Virginia,King William County,Female Breast,Female,139.6,73,41343
+Virginia,Middlesex County,Female Breast,Female,143.9,65,27194
+Virginia,Chesterfield County,Female Breast,Female,130.9,1315,859663
+Virginia,Essex County,Female Breast,Female,169.3,66,29465
+Virginia,Gloucester County,Female Breast,Female,128.6,167,93501
+Virginia,Frederick County,Female Breast,Female,124.1,317,207432
+Virginia,Lunenburg County,Female Breast,Female,147.4,65,29343
+Virginia,Franklin City,Female Breast,Female,153.2,40,23028
+Virginia,Buckingham County,Female Breast,Female,115.4,62,38471
+Virginia,Caroline County,Female Breast,Female,120.9,115,75076
+Virginia,Galax City,Female Breast,Female,123.1,29,18222
+Virginia,Orange County,Female Breast,Female,141,173,89122
+Virginia,Emporia City,Female Breast,Female,Data Suppressed,Data Suppressed,15190
+Virginia,Fredericksburg City,Female Breast,Female,139.5,94,75691
+Virginia,Stafford County,Female Breast,Female,131.6,448,344778
+Virginia,Nelson County,Female Breast,Female,132.9,85,38106
+Virginia,Northampton County,Female Breast,Female,141.4,73,31401
+Virginia,Buena Vista City,Female Breast,Female,139.1,35,17594
+Virginia,Page County,Female Breast,Female,135.8,114,60170
+Virginia,Shenandoah County,Female Breast,Female,118,188,109212
+Virginia,Pittsylvania County,Female Breast,Female,119.5,274,158388
+Virginia,Colonial Heights City,Female Breast,Female,160.8,96,47065
+Virginia,Powhatan County,Female Breast,Female,127.8,115,66258
+Virginia,Prince Edward County,Female Breast,Female,152.3,94,57977
+Virginia,Richmond County,Female Breast,Female,131.9,42,19724
+Virginia,Wythe County,Female Breast,Female,126.7,139,74563
+Virginia,Chesapeake City,Female Breast,Female,148.1,993,595285
+Virginia,Sussex County,Female Breast,Female,143.2,47,23858
+Virginia,Warren County,Female Breast,Female,119.8,145,96892
+Virginia,Rappahannock County,Female Breast,Female,123,37,18624
+Virginia,Charlottesville City,Female Breast,Female,124,132,118531
+Virginia,Hopewell City,Female Breast,Female,119.3,86,59569
+Virginia,Montgomery County,Female Breast,Female,117.4,265,233310
+Virginia,Roanoke County,Female Breast,Female,139.9,475,242576
+Virginia,Surry County,Female Breast,Female,139.5,36,17071
+Virginia,Prince George County,Female Breast,Female,140.4,135,84771
+Virginia,Southampton County,Female Breast,Female,140.3,83,43638
+Virginia,Lexington City,Female Breast,Female,163.3,32,15588
+Virginia,Danville City,Female Breast,Female,130.8,205,114035
+Virginia,Hampton City,Female Breast,Female,145.3,591,354188
+Virginia,Brunswick County,Female Breast,Female,132.3,79,39516
+Virginia,Northumberland County,Female Breast,Female,122.7,79,31251
+Virginia,Nottoway County,Female Breast,Female,129.7,63,36253
+Virginia,Campbell County,Female Breast,Female,121.6,238,141769
+Virginia,Charles City County,Female Breast,Female,116,37,17847
+Virginia,New Kent County,Female Breast,Female,142.2,94,49153
+New York,St. Lawrence County,Female Breast,Female,102.1,339,272827
+New York,Franklin County,Female Breast,Female,104.2,155,115190
+New York,Steuben County,Female Breast,Female,107,358,246504
+New York,Orleans County,Female Breast,Female,110,150,105365
+New York,Clinton County,Female Breast,Female,106.2,261,197947
+New York,Delaware County,Female Breast,Female,108,193,115277
+New York,Kings County,Female Breast,Female,117.1,8639,6902364
+New York,Bronx County,Female Breast,Female,110.1,4405,3824894
+New York,Washington County,Female Breast,Female,116.3,237,150728
+New York,Queens County,Female Breast,Female,113.8,8040,5989658
+New York,Sullivan County,Female Breast,Female,110.6,273,185392
+New York,Schoharie County,Female Breast,Female,122.2,135,79418
+New York,Montgomery County,Female Breast,Female,117.6,205,126163
+New York,Jefferson County,Female Breast,Female,120.9,351,279359
+New York,Yates County,Female Breast,Female,131.9,108,64612
+New York,Seneca County,Female Breast,Female,129,141,83372
+New York,Ulster County,Female Breast,Female,125.1,776,454575
+New York,Schuyler County,Female Breast,Female,123.6,82,45631
+New York,Lewis County,Female Breast,Female,130.2,114,66584
+New York,Cayuga County,Female Breast,Female,123.2,310,192136
+New York,Chautauqua County,Female Breast,Female,131.6,587,332608
+New York,Cortland County,Female Breast,Female,129.7,182,124530
+New York,Essex County,Female Breast,Female,128.4,181,92214
+New York,Oneida County,Female Breast,Female,127.7,969,584330
+New York,Allegany County,Female Breast,Female,124.3,188,117700
+New York,Herkimer County,Female Breast,Female,132.4,290,160580
+New York,Chemung County,Female Breast,Female,129.7,379,220406
+New York,Columbia County,Female Breast,Female,130.2,296,154071
+New York,Madison County,Female Breast,Female,129.1,300,183106
+New York,Tompkins County,Female Breast,Female,128.8,332,264437
+New York,New York County,Female Breast,Female,136.8,6779,4345022
+New York,Richmond County,Female Breast,Female,134.9,2012,1224326
+New York,Wayne County,Female Breast,Female,142.7,429,231873
+New York,Wyoming County,Female Breast,Female,164.6,198,93869
+New York,Westchester County,Female Breast,Female,141.4,4432,2510117
+New York,Tioga County,Female Breast,Female,134.9,233,125182
+New York,Ontario County,Female Breast,Female,134.3,506,278565
+New York,Oswego County,Female Breast,Female,133.5,483,300640
+New York,Otsego County,Female Breast,Female,140.6,291,157229
+New York,Onondaga County,Female Breast,Female,137.1,2051,1211549
+New York,Orange County,Female Breast,Female,138.4,1450,940045
+New York,Warren County,Female Breast,Female,141.7,342,165623
+New York,Schenectady County,Female Breast,Female,148.1,729,398377
+New York,Rensselaer County,Female Breast,Female,135.5,678,404606
+New York,Saratoga County,Female Breast,Female,138.1,1024,569598
+New York,Rockland County,Female Breast,Female,142.6,1349,823502
+New York,Cattaraugus County,Female Breast,Female,136.7,353,198086
+New York,Monroe County,Female Breast,Female,146,3466,1935850
+New York,Niagara County,Female Breast,Female,134.3,977,547697
+New York,Genesee County,Female Breast,Female,139.6,277,148075
+New York,Nassau County,Female Breast,Female,145,6493,3499985
+New York,Livingston County,Female Breast,Female,136.4,272,160768
+New York,Hamilton County,Female Breast,Female,169.4,36,11616
+New York,Broome County,Female Breast,Female,143.6,918,501598
+New York,Chenango County,Female Breast,Female,133.5,227,123142
+New York,Fulton County,Female Breast,Female,132.7,243,136495
+New York,Greene County,Female Breast,Female,139.6,228,114819
+New York,Albany County,Female Breast,Female,148.8,1399,794483
+New York,Erie County,Female Breast,Female,145.6,4447,2383274
+New York,Dutchess County,Female Breast,Female,138.2,1317,744084
+New York,Putnam County,Female Breast,Female,141,450,249351
+New York,Suffolk County,Female Breast,Female,137.7,6571,3803743
+New Jersey,Hudson County,Female Breast,Female,104.4,1835,1695497
+New Jersey,Cumberland County,Female Breast,Female,119.7,537,379473
+New Jersey,Cape May County,Female Breast,Female,128.6,501,243525
+New Jersey,Passaic County,Female Breast,Female,122.4,1814,1308464
+New Jersey,Middlesex County,Female Breast,Female,126.8,3126,2116781
+New Jersey,Warren County,Female Breast,Female,125.3,452,274776
+New Jersey,Camden County,Female Breast,Female,138,2195,1322160
+New Jersey,Bergen County,Female Breast,Female,136,4176,2405941
+New Jersey,Essex County,Female Breast,Female,134.7,3139,2069534
+New Jersey,Atlantic County,Female Breast,Female,133,1197,706738
+New Jersey,Salem County,Female Breast,Female,132.5,283,164837
+New Jersey,Ocean County,Female Breast,Female,129.7,2842,1521146
+New Jersey,Sussex County,Female Breast,Female,136.5,643,364075
+New Jersey,Union County,Female Breast,Female,135.4,2244,1420913
+New Jersey,Burlington County,Female Breast,Female,143.1,2099,1142653
+New Jersey,Morris County,Female Breast,Female,149.1,2412,1271057
+New Jersey,Hunterdon County,Female Breast,Female,146.7,640,318481
+New Jersey,Somerset County,Female Breast,Female,142.7,1499,850108
+New Jersey,Mercer County,Female Breast,Female,141.5,1577,950987
+New Jersey,Gloucester County,Female Breast,Female,145.9,1333,747844
+New Jersey,Monmouth County,Female Breast,Female,144.6,3008,1612981
+Connecticut,Windham County,Female Breast,Female,122.3,456,294557
+Connecticut,Litchfield County,Female Breast,Female,135,898,470142
+Connecticut,New Haven County,Female Breast,Female,138.7,3859,2235346
+Connecticut,New London County,Female Breast,Female,137.1,1214,678919
+Connecticut,Fairfield County,Female Breast,Female,144,4230,2423205
+Connecticut,Hartford County,Female Breast,Female,136.5,3949,2312248
+Connecticut,Tolland County,Female Breast,Female,150.2,658,378142
+Connecticut,Middlesex County,Female Breast,Female,157.7,919,421213
+Rhode Island,Providence County,Female Breast,Female,135.7,2558,1628151
+Rhode Island,Newport County,Female Breast,Female,138.3,415,211029
+Rhode Island,Kent County,Female Breast,Female,145.8,843,424642
+Rhode Island,Bristol County,Female Breast,Female,138.6,240,127205
+Rhode Island,Washington County,Female Breast,Female,138.6,603,325531
+Maryland,Garrett County,Female Breast,Female,112.7,123,74765
+Maryland,St. Marys County,Female Breast,Female,116.4,349,275975
+Maryland,Baltimore City,Female Breast,Female,122.8,2242,1647427
+Maryland,Talbot County,Female Breast,Female,122,197,98787
+Maryland,Queen Annes County,Female Breast,Female,120.7,196,122925
+Maryland,Allegany County,Female Breast,Female,117.3,292,175687
+Maryland,Dorchester County,Female Breast,Female,125.5,147,84951
+Maryland,Charles County,Female Breast,Female,125.8,547,398686
+Maryland,Cecil County,Female Breast,Female,128.1,387,257057
+Maryland,Caroline County,Female Breast,Female,132.4,137,83668
+Maryland,Montgomery County,Female Breast,Female,127.4,4018,2663140
+Maryland,Prince Georges County,Female Breast,Female,128.8,3325,2332766
+Maryland,Somerset County,Female Breast,Female,129.7,94,59624
+Maryland,Frederick County,Female Breast,Female,131.8,956,618203
+Maryland,Washington County,Female Breast,Female,139.4,645,366334
+Maryland,Wicomico County,Female Breast,Female,133.1,398,265712
+Maryland,Anne Arundel County,Female Breast,Female,134.8,2242,1413335
+Maryland,Baltimore County,Female Breast,Female,138.3,3715,2172880
+Maryland,Carroll County,Female Breast,Female,133.3,738,422633
+Maryland,Calvert County,Female Breast,Female,141.1,390,228817
+Maryland,Howard County,Female Breast,Female,137,1235,786090
+Maryland,Kent County,Female Breast,Female,146,115,51842
+Maryland,Harford County,Female Breast,Female,138.4,1112,636927
+Maryland,Worcester County,Female Breast,Female,137.3,274,132298
+Delaware,Sussex County,Female Breast,Female,130.4,1123,543393
+Delaware,Kent County,Female Breast,Female,134.4,715,443123
+Delaware,New Castle County,Female Breast,Female,138.6,2301,1424173
+Pennsylvania,Potter County,Female Breast,Female,97.7,64,42920
+Pennsylvania,Juniata County,Female Breast,Female,105.4,85,61140
+Pennsylvania,Clinton County,Female Breast,Female,106.9,135,100820
+Pennsylvania,Jefferson County,Female Breast,Female,106.7,170,112139
+Pennsylvania,Perry County,Female Breast,Female,106.3,160,113776
+Pennsylvania,Somerset County,Female Breast,Female,110.2,298,182983
+Pennsylvania,Mifflin County,Female Breast,Female,117.1,194,118648
+Pennsylvania,Union County,Female Breast,Female,112.9,150,101587
+Pennsylvania,Wayne County,Female Breast,Female,113.8,211,122228
+Pennsylvania,Pike County,Female Breast,Female,118.8,234,139116
+Pennsylvania,Carbon County,Female Breast,Female,118.1,279,161972
+Pennsylvania,Clearfield County,Female Breast,Female,118.8,331,193206
+Pennsylvania,Franklin County,Female Breast,Female,111.2,562,388372
+Pennsylvania,Schuylkill County,Female Breast,Female,113.7,580,355714
+Pennsylvania,McKean County,Female Breast,Female,126,175,103124
+Pennsylvania,Venango County,Female Breast,Female,123.6,234,135608
+Pennsylvania,Philadelphia County,Female Breast,Female,123.9,5532,4122478
+Pennsylvania,Snyder County,Female Breast,Female,121.6,160,102088
+Pennsylvania,Berks County,Female Breast,Female,124.8,1633,1054494
+Pennsylvania,Blair County,Female Breast,Female,122,560,320713
+Pennsylvania,Bradford County,Female Breast,Female,123.5,270,156349
+Pennsylvania,Clarion County,Female Breast,Female,124.8,161,99792
+Pennsylvania,Huntingdon County,Female Breast,Female,122.5,185,107738
+Pennsylvania,Indiana County,Female Breast,Female,126,336,217756
+Pennsylvania,Cambria County,Female Breast,Female,125.6,630,349396
+Pennsylvania,Fulton County,Female Breast,Female,123.8,61,36225
+Pennsylvania,Luzerne County,Female Breast,Female,125.6,1394,809331
+Pennsylvania,Lehigh County,Female Breast,Female,124.8,1400,918693
+Pennsylvania,Lackawanna County,Female Breast,Female,124,908,549246
+Pennsylvania,Lawrence County,Female Breast,Female,122,415,229411
+Pennsylvania,Adams County,Female Breast,Female,126.8,448,257005
+Pennsylvania,Beaver County,Female Breast,Female,141.6,885,435769
+Pennsylvania,Bedford County,Female Breast,Female,133.3,236,123152
+Pennsylvania,Mercer County,Female Breast,Female,139.3,573,290488
+Pennsylvania,Washington County,Female Breast,Female,140.6,1041,530476
+Pennsylvania,Wyoming County,Female Breast,Female,134.4,125,69678
+Pennsylvania,Tioga County,Female Breast,Female,137.5,202,105652
+Pennsylvania,Westmoreland County,Female Breast,Female,136.2,1874,918877
+Pennsylvania,Susquehanna County,Female Breast,Female,134,201,104598
+Pennsylvania,Monroe County,Female Breast,Female,130.3,706,423844
+Pennsylvania,Montgomery County,Female Breast,Female,142.9,3831,2095370
+Pennsylvania,Warren County,Female Breast,Female,144,223,101446
+Pennsylvania,Sullivan County,Female Breast,Female,154.3,44,14891
+Pennsylvania,Montour County,Female Breast,Female,127.7,89,47731
+Pennsylvania,Allegheny County,Female Breast,Female,141.5,5949,3189473
+Pennsylvania,Armstrong County,Female Breast,Female,143.5,360,169480
+Pennsylvania,Cumberland County,Female Breast,Female,131.1,1041,616650
+Pennsylvania,Erie County,Female Breast,Female,137.8,1219,707136
+Pennsylvania,Columbia County,Female Breast,Female,129.7,295,173165
+Pennsylvania,Delaware County,Female Breast,Female,138.8,2483,1461707
+Pennsylvania,Greene County,Female Breast,Female,137.5,164,90513
+Pennsylvania,Dauphin County,Female Breast,Female,130.7,1151,701499
+Pennsylvania,Forest County,Female Breast,Female,131.2,30,12174
+Pennsylvania,Cameron County,Female Breast,Female,136.8,28,12104
+Pennsylvania,Crawford County,Female Breast,Female,127.1,382,222680
+Pennsylvania,Elk County,Female Breast,Female,137.1,157,77503
+Pennsylvania,Fayette County,Female Breast,Female,126.2,625,339442
+Pennsylvania,Centre County,Female Breast,Female,140.4,542,379007
+Pennsylvania,Chester County,Female Breast,Female,142.2,2239,1300092
+Pennsylvania,Butler County,Female Breast,Female,135.7,844,469709
+Pennsylvania,Lancaster County,Female Breast,Female,129.6,2175,1361173
+Pennsylvania,Northumberland County,Female Breast,Female,126.1,414,232900
+Pennsylvania,York County,Female Breast,Female,130.2,1823,1113778
+Pennsylvania,Lebanon County,Female Breast,Female,138.4,637,348682
+Pennsylvania,Lycoming County,Female Breast,Female,146.6,581,295370
+Pennsylvania,Bucks County,Female Breast,Female,138.5,2921,1594698
+Pennsylvania,Northampton County,Female Breast,Female,132.8,1348,763406
+Massachusetts,Franklin County,Female Breast,Female,109.5,287,182059
+Massachusetts,Suffolk County,Female Breast,Female,122.1,2371,1991537
+Massachusetts,Bristol County,Female Breast,Female,124.4,2242,1430522
+Massachusetts,Berkshire County,Female Breast,Female,125.3,609,332498
+Massachusetts,Hampden County,Female Breast,Female,131.2,1955,1212972
+Massachusetts,Worcester County,Female Breast,Female,135.9,3369,2063615
+Massachusetts,Essex County,Female Breast,Female,136.1,3404,1996916
+Massachusetts,Dukes County,Female Breast,Female,171.4,109,43638
+Massachusetts,Barnstable County,Female Breast,Female,155.7,1543,559582
+Massachusetts,Hampshire County,Female Breast,Female,146.7,708,428717
+Massachusetts,Norfolk County,Female Breast,Female,151,3374,1798079
+Massachusetts,Middlesex County,Female Breast,Female,143.8,6841,4019989
+Massachusetts,Nantucket County,Female Breast,Female,190.2,56,26404
+Massachusetts,Plymouth County,Female Breast,Female,136.6,2302,1299126
+New Hampshire,Coos County,Female Breast,Female,109.5,132,77383
+New Hampshire,Sullivan County,Female Breast,Female,128.4,203,109313
+New Hampshire,Carroll County,Female Breast,Female,131.8,263,119437
+New Hampshire,Hillsborough County,Female Breast,Female,142.9,1792,1020206
+New Hampshire,Strafford County,Female Breast,Female,139.2,518,321860
+New Hampshire,Cheshire County,Female Breast,Female,134,342,194680
+New Hampshire,Rockingham County,Female Breast,Female,153,1532,759439
+New Hampshire,Belknap County,Female Breast,Female,151.3,335,153209
+New Hampshire,Grafton County,Female Breast,Female,145.8,448,225818
+New Hampshire,Merrimack County,Female Breast,Female,154.9,749,374483
+Maine,Somerset County,Female Breast,Female,98.5,183,129191
+Maine,Aroostook County,Female Breast,Female,109.3,279,175833
+Maine,Androscoggin County,Female Breast,Female,110.9,389,273324
+Maine,Washington County,Female Breast,Female,115.7,150,81088
+Maine,Hancock County,Female Breast,Female,116.4,247,139797
+Maine,Franklin County,Female Breast,Female,111.8,114,77230
+Maine,Cumberland County,Female Breast,Female,132.8,1279,738901
+Maine,Waldo County,Female Breast,Female,127.3,188,99454
+Maine,York County,Female Breast,Female,138.1,976,514249
+Maine,Oxford County,Female Breast,Female,123.8,271,144038
+Maine,Lincoln County,Female Breast,Female,118.9,162,86890
+Maine,Penobscot County,Female Breast,Female,130.9,645,385690
+Maine,Sagadahoc County,Female Breast,Female,127.3,165,90201
+Maine,Kennebec County,Female Breast,Female,120.3,501,310654
+Maine,Knox County,Female Breast,Female,146.8,228,100256
+Maine,Piscataquis County,Female Breast,Female,139.6,88,42776
+West Virginia,Doddridge County,Female Breast,Female,67.4,21,19389
+West Virginia,Summers County,Female Breast,Female,74.4,42,36794
+West Virginia,Wyoming County,Female Breast,Female,79.3,64,56879
+West Virginia,Pocahontas County,Female Breast,Female,89.6,31,20932
+West Virginia,Grant County,Female Breast,Female,84.5,40,29291
+West Virginia,Mason County,Female Breast,Female,92.8,94,70077
+West Virginia,Taylor County,Female Breast,Female,96.9,59,41909
+West Virginia,Ritchie County,Female Breast,Female,95.4,33,25255
+West Virginia,Barbour County,Female Breast,Female,97.5,56,43119
+West Virginia,Boone County,Female Breast,Female,99.3,80,59301
+West Virginia,Lincoln County,Female Breast,Female,96.8,68,53738
+West Virginia,Hampshire County,Female Breast,Female,97.7,79,57689
+West Virginia,Jackson County,Female Breast,Female,96,100,73809
+West Virginia,Marshall County,Female Breast,Female,100,119,82099
+West Virginia,Randolph County,Female Breast,Female,108.4,104,70857
+West Virginia,Roane County,Female Breast,Female,108.1,55,36539
+West Virginia,Nicholas County,Female Breast,Female,106.2,94,65257
+West Virginia,Wirt County,Female Breast,Female,109.9,22,14306
+West Virginia,Pendleton County,Female Breast,Female,105.5,29,17858
+West Virginia,Tucker County,Female Breast,Female,114.8,30,17341
+West Virginia,Tyler County,Female Breast,Female,109.6,39,22697
+West Virginia,Mineral County,Female Breast,Female,109.7,105,69202
+West Virginia,Braxton County,Female Breast,Female,105.1,54,35629
+West Virginia,Calhoun County,Female Breast,Female,111.6,30,18785
+West Virginia,Hardy County,Female Breast,Female,100.6,46,34364
+West Virginia,Fayette County,Female Breast,Female,112.3,186,111847
+West Virginia,Mercer County,Female Breast,Female,111.8,247,160170
+West Virginia,Harrison County,Female Breast,Female,113.7,273,175044
+West Virginia,Wayne County,Female Breast,Female,112.4,155,106090
+West Virginia,Morgan County,Female Breast,Female,108.4,74,43933
+West Virginia,Raleigh County,Female Breast,Female,122.6,323,194566
+West Virginia,Wood County,Female Breast,Female,114.8,357,222785
+West Virginia,Ohio County,Female Breast,Female,132.5,212,112746
+West Virginia,Preston County,Female Breast,Female,122.5,132,82002
+West Virginia,Putnam County,Female Breast,Female,124.2,233,143897
+West Virginia,Upshur County,Female Breast,Female,128.7,104,62141
+West Virginia,Berkeley County,Female Breast,Female,126.3,402,278208
+West Virginia,Greenbrier County,Female Breast,Female,144.4,193,91074
+West Virginia,Brooke County,Female Breast,Female,129.9,112,59535
+West Virginia,Clay County,Female Breast,Female,127.3,38,22434
+West Virginia,Marion County,Female Breast,Female,140.8,270,144182
+West Virginia,Mingo County,Female Breast,Female,121.1,101,64928
+West Virginia,Cabell County,Female Breast,Female,138.4,434,246684
+West Virginia,Gilmer County,Female Breast,Female,122.8,30,16944
+West Virginia,Logan County,Female Breast,Female,122.3,152,88907
+West Virginia,McDowell County,Female Breast,Female,123.1,88,51623
+West Virginia,Jefferson County,Female Breast,Female,122.5,200,139877
+West Virginia,Hancock County,Female Breast,Female,121.8,138,77473
+West Virginia,Monroe County,Female Breast,Female,124.5,61,34026
+West Virginia,Lewis County,Female Breast,Female,115.9,67,41407
+West Virginia,Monongalia County,Female Breast,Female,130,313,249282
+West Virginia,Kanawha County,Female Breast,Female,119.7,820,491073
+West Virginia,Webster County,Female Breast,Female,130.4,39,22091
+West Virginia,Wetzel County,Female Breast,Female,120.2,69,40534
+West Virginia,Pleasants County,Female Breast,Female,138.8,33,17428
+Vermont,Orange County,Female Breast,Female,95.7,96,72392
+Vermont,Grand Isle County,Female Breast,Female,97.8,25,17296
+Vermont,Windham County,Female Breast,Female,127.6,204,110884
+Vermont,Franklin County,Female Breast,Female,116,172,122642
+Vermont,Caledonia County,Female Breast,Female,102.1,111,76990
+Vermont,Bennington County,Female Breast,Female,127.2,178,93175
+Vermont,Washington County,Female Breast,Female,131.4,258,148753
+Vermont,Rutland County,Female Breast,Female,131.8,295,152430
+Vermont,Windsor County,Female Breast,Female,144.6,300,142246
+Vermont,Orleans County,Female Breast,Female,145.8,138,67145
+Vermont,Addison County,Female Breast,Female,138,166,92049
+Vermont,Chittenden County,Female Breast,Female,144.8,665,408614
+Vermont,Essex County,Female Breast,Female,129.4,28,15298
+Vermont,Lamoille County,Female Breast,Female,144.8,110,62920
+Washington,Ferry County,Female Breast,Female,87.5,26,18327
+Washington,Franklin County,Female Breast,Female,98.8,170,211692
+Washington,Douglas County,Female Breast,Female,103.5,125,99347
+Washington,Skamania County,Female Breast,Female,100.9,36,27944
+Washington,Wahkiakum County,Female Breast,Female,101.1,17,10125
+Washington,Adams County,Female Breast,Female,103.9,44,46967
+Washington,Grant County,Female Breast,Female,119.7,283,228746
+Washington,Kittitas County,Female Breast,Female,109.8,127,106134
+Washington,Stevens County,Female Breast,Female,118.2,197,109329
+Washington,Lewis County,Female Breast,Female,109.4,294,188584
+Washington,Okanogan County,Female Breast,Female,117.4,169,102339
+Washington,Yakima County,Female Breast,Female,112.2,736,618449
+Washington,Whitman County,Female Breast,Female,118.5,107,116058
+Washington,Asotin County,Female Breast,Female,112.8,94,57047
+Washington,Clark County,Female Breast,Female,134.5,1774,1138260
+Washington,San Juan County,Female Breast,Female,135.6,94,41443
+Washington,Kitsap County,Female Breast,Female,135.3,1103,628802
+Washington,Spokane County,Female Breast,Female,135,1972,1222885
+Washington,Grays Harbor County,Female Breast,Female,120.6,310,173344
+Washington,Jefferson County,Female Breast,Female,129.5,195,76581
+Washington,Thurston County,Female Breast,Female,130.4,1116,678062
+Washington,Klickitat County,Female Breast,Female,123,95,51738
+Washington,Cowlitz County,Female Breast,Female,135,461,258975
+Washington,Island County,Female Breast,Female,124.5,380,199665
+Washington,Pacific County,Female Breast,Female,121.3,115,51694
+Washington,Pierce County,Female Breast,Female,137.9,3219,2093943
+Washington,Snohomish County,Female Breast,Female,137.8,2964,1890312
+Washington,Benton County,Female Breast,Female,137.6,724,468071
+Washington,Chelan County,Female Breast,Female,119.9,284,186866
+Washington,Walla Walla County,Female Breast,Female,120.4,215,146286
+Washington,Columbia County,Female Breast,Female,Data Suppressed,Data Suppressed,10083
+Washington,Mason County,Female Breast,Female,142.2,321,147459
+Washington,Skagit County,Female Breast,Female,141.9,572,303454
+Washington,Garfield County,Female Breast,Female,Data Suppressed,Data Suppressed,5682
+Washington,Lincoln County,Female Breast,Female,142.9,57,25576
+Washington,Pend Oreille County,Female Breast,Female,146.7,72,31920
+Washington,King County,Female Breast,Female,141.6,8180,5214127
+Washington,Whatcom County,Female Breast,Female,138.3,868,528125
+Washington,Clallam County,Female Breast,Female,138.3,444,183460
+Ohio,Holmes County,Female Breast,Female,73.4,84,109002
+Ohio,Guernsey County,Female Breast,Female,82.5,115,99971
+Ohio,Gallia County,Female Breast,Female,83,86,77063
+Ohio,Monroe County,Female Breast,Female,90.4,46,35750
+Ohio,Harrison County,Female Breast,Female,95.2,54,39214
+Ohio,Noble County,Female Breast,Female,97.2,42,30530
+Ohio,Wyandot County,Female Breast,Female,102.9,79,56287
+Ohio,Vinton County,Female Breast,Female,105.3,45,32926
+Ohio,Shelby County,Female Breast,Female,98.2,149,121861
+Ohio,Brown County,Female Breast,Female,100.3,142,110646
+Ohio,Jackson County,Female Breast,Female,101,105,83352
+Ohio,Belmont County,Female Breast,Female,104.1,259,169726
+Ohio,Preble County,Female Breast,Female,105,147,104491
+Ohio,Madison County,Female Breast,Female,97.7,126,99397
+Ohio,Columbiana County,Female Breast,Female,116.1,427,261092
+Ohio,Coshocton County,Female Breast,Female,111.4,137,92620
+Ohio,Williams County,Female Breast,Female,117.6,149,93859
+Ohio,Trumbull County,Female Breast,Female,113.7,853,524720
+Ohio,Tuscarawas County,Female Breast,Female,114.8,369,234569
+Ohio,Crawford County,Female Breast,Female,116,176,108637
+Ohio,Mercer County,Female Breast,Female,108.2,138,101226
+Ohio,Darke County,Female Breast,Female,110.9,200,132183
+Ohio,Defiance County,Female Breast,Female,110.3,136,96908
+Ohio,Paulding County,Female Breast,Female,109.4,64,47665
+Ohio,Hancock County,Female Breast,Female,108.2,256,192404
+Ohio,Highland County,Female Breast,Female,109.8,149,109666
+Ohio,Marion County,Female Breast,Female,116,232,154346
+Ohio,Carroll County,Female Breast,Female,110.5,110,70189
+Ohio,Adams County,Female Breast,Female,112.3,97,70801
+Ohio,Allen County,Female Breast,Female,113.4,372,258855
+Ohio,Hocking County,Female Breast,Female,119.7,116,72299
+Ohio,Clinton County,Female Breast,Female,125.2,164,106225
+Ohio,Wayne County,Female Breast,Female,123.8,441,291507
+Ohio,Wood County,Female Breast,Female,124.3,450,327864
+Ohio,Union County,Female Breast,Female,125.7,183,141070
+Ohio,Fulton County,Female Breast,Female,120.7,162,107146
+Ohio,Van Wert County,Female Breast,Female,120.2,114,72376
+Ohio,Ross County,Female Breast,Female,122.3,298,183620
+Ohio,Richland County,Female Breast,Female,119.3,500,300387
+Ohio,Scioto County,Female Breast,Female,124.7,321,196352
+Ohio,Clermont County,Female Breast,Female,128.2,792,510360
+Ohio,Clark County,Female Breast,Female,149.7,683,350466
+Ohio,Washington County,Female Breast,Female,135.2,291,155505
+Ohio,Summit County,Female Breast,Female,130.2,2329,1393890
+Ohio,Cuyahoga County,Female Breast,Female,132.5,5693,3303090
+Ohio,Franklin County,Female Breast,Female,132,4262,3166191
+Ohio,Geauga County,Female Breast,Female,139.3,452,237742
+Ohio,Greene County,Female Breast,Female,131,677,417711
+Ohio,Pickaway County,Female Breast,Female,129.5,219,134308
+Ohio,Perry County,Female Breast,Female,130.4,143,89962
+Ohio,Sandusky County,Female Breast,Female,136.5,278,151402
+Ohio,Seneca County,Female Breast,Female,122.6,215,139360
+Ohio,Meigs County,Female Breast,Female,118,91,59207
+Ohio,Miami County,Female Breast,Female,126.4,436,262984
+Ohio,Stark County,Female Breast,Female,121.3,1562,964672
+Ohio,Hamilton County,Female Breast,Female,137.1,3383,2091209
+Ohio,Ottawa County,Female Breast,Female,124.2,209,103283
+Ohio,Hardin County,Female Breast,Female,122.4,108,79709
+Ohio,Henry County,Female Breast,Female,119.6,108,69788
+Ohio,Medina County,Female Breast,Female,131.8,735,443932
+Ohio,Delaware County,Female Breast,Female,136.5,721,477967
+Ohio,Fayette County,Female Breast,Female,127.9,123,72582
+Ohio,Erie County,Female Breast,Female,138.8,377,193431
+Ohio,Fairfield County,Female Breast,Female,128.2,575,376963
+Ohio,Butler County,Female Breast,Female,126.2,1365,952725
+Ohio,Champaign County,Female Breast,Female,136,174,98257
+Ohio,Huron County,Female Breast,Female,126.7,220,148507
+Ohio,Jefferson County,Female Breast,Female,127.9,307,174847
+Ohio,Knox County,Female Breast,Female,129.1,247,155273
+Ohio,Lake County,Female Breast,Female,135,1085,587581
+Ohio,Auglaize County,Female Breast,Female,126.1,187,115063
+Ohio,Warren County,Female Breast,Female,138.8,889,551414
+Ohio,Montgomery County,Female Breast,Female,134.5,2379,1381022
+Ohio,Morgan County,Female Breast,Female,126.1,61,37078
+Ohio,Morrow County,Female Breast,Female,133.5,150,87075
+Ohio,Muskingum County,Female Breast,Female,134.5,385,221267
+Ohio,Mahoning County,Female Breast,Female,120.4,1036,598218
+Ohio,Lorain County,Female Breast,Female,127.1,1256,772122
+Ohio,Portage County,Female Breast,Female,124.4,599,412950
+Ohio,Lawrence County,Female Breast,Female,123.3,248,157473
+Ohio,Licking County,Female Breast,Female,132.6,711,431919
+Ohio,Pike County,Female Breast,Female,138.1,126,71078
+Ohio,Lucas County,Female Breast,Female,125.8,1688,1119268
+Ohio,Logan County,Female Breast,Female,119.7,178,114819
+Ohio,Putnam County,Female Breast,Female,133,144,85346
+Ohio,Athens County,Female Breast,Female,124,193,163304
+Ohio,Ashland County,Female Breast,Female,120,214,135640
+Ohio,Ashtabula County,Female Breast,Female,119.7,397,246376
+Kentucky,Magoffin County,Female Breast,Female,67.3,27,32109
+Kentucky,Metcalfe County,Female Breast,Female,77,27,25068
+Kentucky,Letcher County,Female Breast,Female,87.4,70,59349
+Kentucky,Hickman County,Female Breast,Female,89,18,12145
+Kentucky,Morgan County,Female Breast,Female,81.7,34,29066
+Kentucky,Clinton County,Female Breast,Female,88.3,29,25670
+Kentucky,Rowan County,Female Breast,Female,99.1,65,62332
+Kentucky,Johnson County,Female Breast,Female,96.3,74,59172
+Kentucky,Harlan County,Female Breast,Female,96.4,92,71946
+Kentucky,Fulton County,Female Breast,Female,98,23,15952
+Kentucky,Grayson County,Female Breast,Female,89.2,71,64593
+Kentucky,Hancock County,Female Breast,Female,95.6,24,21177
+Kentucky,Wayne County,Female Breast,Female,96.5,71,52272
+Kentucky,Crittenden County,Female Breast,Female,99,32,22811
+Kentucky,Casey County,Female Breast,Female,106.5,57,40625
+Kentucky,Christian County,Female Breast,Female,103.1,170,173684
+Kentucky,Trigg County,Female Breast,Female,104.3,60,36354
+Kentucky,Meade County,Female Breast,Female,105,85,71231
+Kentucky,Breckinridge County,Female Breast,Female,106,69,49820
+Kentucky,Whitley County,Female Breast,Female,108,124,91546
+Kentucky,Martin County,Female Breast,Female,106.4,38,27664
+Kentucky,Caldwell County,Female Breast,Female,99.7,47,33069
+Kentucky,Muhlenberg County,Female Breast,Female,105.5,113,76794
+Kentucky,Carlisle County,Female Breast,Female,105,19,12639
+Kentucky,Gallatin County,Female Breast,Female,108.3,27,21370
+Kentucky,Breathitt County,Female Breast,Female,106,45,33459
+Kentucky,Cumberland County,Female Breast,Female,101.2,25,17256
+Kentucky,Owsley County,Female Breast,Female,105.1,18,11599
+Kentucky,Hart County,Female Breast,Female,103.4,62,46619
+Kentucky,Bell County,Female Breast,Female,106.3,103,70883
+Kentucky,Simpson County,Female Breast,Female,122,71,45341
+Kentucky,Garrard County,Female Breast,Female,119.9,68,43405
+Kentucky,Spencer County,Female Breast,Female,120.5,64,44078
+Kentucky,Graves County,Female Breast,Female,115.9,141,95316
+Kentucky,Larue County,Female Breast,Female,109.5,46,35400
+Kentucky,Knox County,Female Breast,Female,114.4,117,80759
+Kentucky,McCreary County,Female Breast,Female,110.7,58,40616
+Kentucky,McLean County,Female Breast,Female,119.8,39,23753
+Kentucky,Laurel County,Female Breast,Female,118.7,222,152569
+Kentucky,Wolfe County,Female Breast,Female,109.1,27,18480
+Kentucky,Ohio County,Female Breast,Female,125.5,97,60240
+Kentucky,Shelby County,Female Breast,Female,127.9,177,116328
+Kentucky,Scott County,Female Breast,Female,132.1,176,130040
+Kentucky,Todd County,Female Breast,Female,141.1,51,31424
+Kentucky,Taylor County,Female Breast,Female,138.4,118,65043
+Kentucky,Carroll County,Female Breast,Female,140.7,44,26644
+Kentucky,Grant County,Female Breast,Female,135.8,94,61842
+Kentucky,Lyon County,Female Breast,Female,136.3,44,18615
+Kentucky,Carter County,Female Breast,Female,125.5,113,69587
+Kentucky,Nelson County,Female Breast,Female,123,168,113846
+Kentucky,Nicholas County,Female Breast,Female,146.7,31,17677
+Kentucky,Trimble County,Female Breast,Female,156.6,42,21693
+Kentucky,Union County,Female Breast,Female,142.3,65,36044
+Kentucky,Warren County,Female Breast,Female,125.4,408,310288
+Kentucky,McCracken County,Female Breast,Female,127.2,289,170198
+Kentucky,Woodford County,Female Breast,Female,125.1,105,66484
+Kentucky,Lawrence County,Female Breast,Female,137.6,71,39938
+Kentucky,Robertson County,Female Breast,Female,Data Suppressed,Data Suppressed,5415
+Kentucky,Rockcastle County,Female Breast,Female,126.6,69,43254
+Kentucky,Russell County,Female Breast,Female,130.7,81,45038
+Kentucky,Mason County,Female Breast,Female,144.2,81,44601
+Kentucky,Menifee County,Female Breast,Female,135.7,28,15716
+Kentucky,Monroe County,Female Breast,Female,114.7,43,26828
+Kentucky,Butler County,Female Breast,Female,121.4,51,31703
+Kentucky,Bullitt County,Female Breast,Female,135.5,313,195953
+Kentucky,Montgomery County,Female Breast,Female,124.3,106,69882
+Kentucky,Jessamine County,Female Breast,Female,119.3,175,130413
+Kentucky,Lincoln County,Female Breast,Female,118.4,97,61927
+Kentucky,Leslie County,Female Breast,Female,113.4,42,27195
+Kentucky,Livingston County,Female Breast,Female,109.3,38,23748
+Kentucky,Logan County,Female Breast,Female,131.8,116,68302
+Kentucky,Lewis County,Female Breast,Female,134.5,61,34242
+Kentucky,Marshall County,Female Breast,Female,124.6,143,79149
+Kentucky,Hopkins County,Female Breast,Female,114.6,180,118324
+Kentucky,Jackson County,Female Breast,Female,119.4,52,33483
+Kentucky,Jefferson County,Female Breast,Female,136.3,3248,1965238
+Kentucky,Calloway County,Female Breast,Female,113.5,132,99111
+Kentucky,Lee County,Female Breast,Female,109.9,23,16913
+Kentucky,Campbell County,Female Breast,Female,123.4,344,232773
+Kentucky,Fayette County,Female Breast,Female,143,1208,794500
+Kentucky,Estill County,Female Breast,Female,125.1,62,36604
+Kentucky,Hardin County,Female Breast,Female,122.2,369,269248
+Kentucky,Fleming County,Female Breast,Female,131.6,60,36963
+Kentucky,Floyd County,Female Breast,Female,138.1,173,97126
+Kentucky,Pulaski County,Female Breast,Female,137,309,163089
+Kentucky,Pike County,Female Breast,Female,115.6,241,159737
+Kentucky,Powell County,Female Breast,Female,112.3,41,31085
+Kentucky,Franklin County,Female Breast,Female,126.4,202,128779
+Kentucky,Daviess County,Female Breast,Female,128.2,413,253986
+Kentucky,Edmonson County,Female Breast,Female,123.1,52,30069
+Kentucky,Elliott County,Female Breast,Female,Data Suppressed,Data Suppressed,16460
+Kentucky,Boyd County,Female Breast,Female,116.7,198,122238
+Kentucky,Kenton County,Female Breast,Female,134,624,412179
+Kentucky,Clark County,Female Breast,Female,142.1,167,91297
+Kentucky,Clay County,Female Breast,Female,112.9,67,49480
+Kentucky,Knott County,Female Breast,Female,131.5,66,39936
+Kentucky,Green County,Female Breast,Female,139.4,55,28096
+Kentucky,Greenup County,Female Breast,Female,110.1,149,93336
+Kentucky,Marion County,Female Breast,Female,117.4,67,48288
+Kentucky,Madison County,Female Breast,Female,136.7,319,224434
+Kentucky,Bracken County,Female Breast,Female,119.2,31,20876
+Kentucky,Boyle County,Female Breast,Female,131.6,128,74386
+Kentucky,Washington County,Female Breast,Female,128.9,48,30452
+Kentucky,Webster County,Female Breast,Female,116.4,51,33539
+Kentucky,Barren County,Female Breast,Female,113.4,157,111123
+Kentucky,Allen County,Female Breast,Female,124,82,51884
+Kentucky,Ballard County,Female Breast,Female,136,42,20650
+Kentucky,Anderson County,Female Breast,Female,158.8,110,55869
+Kentucky,Adair County,Female Breast,Female,112.7,66,48490
+Kentucky,Pendleton County,Female Breast,Female,120.8,57,35986
+Kentucky,Perry County,Female Breast,Female,155,137,70096
+Kentucky,Oldham County,Female Breast,Female,146.2,249,149825
+Kentucky,Owen County,Female Breast,Female,124,44,26944
+Kentucky,Harrison County,Female Breast,Female,116.6,74,47351
+Kentucky,Mercer County,Female Breast,Female,139.4,100,54444
+Kentucky,Henderson County,Female Breast,Female,133.7,200,119522
+Kentucky,Henry County,Female Breast,Female,132.9,68,39409
+Kentucky,Boone County,Female Breast,Female,127.4,438,318888
+Kentucky,Bourbon County,Female Breast,Female,147.4,102,51284
+Kentucky,Bath County,Female Breast,Female,122.9,47,30409
